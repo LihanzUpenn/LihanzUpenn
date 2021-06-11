@@ -1,1 +1,1 @@
-<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif"><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" alt="rand" data-canonical-src="https://rand-xyz.now.sh/api/hello" style="max-width:100%;"></a>
+## Welcome to Lihan's GitHub Page
